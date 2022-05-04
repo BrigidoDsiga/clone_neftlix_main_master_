@@ -9,4 +9,4 @@
 * [jQuery  owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
 
 ## Click no Link abaixo para ver o funcionamento da Pagina
-* [MYFLIX](https://BrigidoDsiga/clone_neftlix_main_master_/)
+* [MYFLIX](https://BrigidoDsiga.github.io/clone_neftlix_main_master_)
