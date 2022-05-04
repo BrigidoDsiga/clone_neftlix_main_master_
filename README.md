@@ -8,5 +8,5 @@
 * [CSS](https://www.w3schools.com/css/default.asp)
 * [jQuery  owl Carousel](https://owlcarousel2.github.io/OwlCarousel2/)
 
-## Click no Link abaixo para ver o funcionamento da Pagina
-* [MYFLIX](https://BrigidoDsiga.github.io/clone_neftlix_main_master_)
+## Disponibilizado por mim.
+* Brígido Domingos Sigá
